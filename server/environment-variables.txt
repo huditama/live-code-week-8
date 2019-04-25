@@ -1,0 +1,2 @@
+JWT_SECRET=livecode
+API_KEY=xRJ6UY9Ye9Wjd7db2Y8rSypM9CajD5KmIq7arrfn
